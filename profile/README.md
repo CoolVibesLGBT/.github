@@ -27,9 +27,8 @@ With global LGBTQI+ content, real time chats, community groups, events, and a st
 - Fresh, modern interface with a strong focus on community and identity.
 
 ---
-
 ## 🚀 Get Started
 
-### Clone the organization repository  
-```bash
-git clone https://github.com/CoolVibesLGBT/coolvibes.github.io.git
+Visit **CoolVibes** and join the LGBTQ+ community:
+
+🌈 https://coolvibes.lgbt
