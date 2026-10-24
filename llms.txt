@@ -1,0 +1,20 @@
+# CoolVibes
+
+> LGBTQIA+ social network, friendship and dating platform for adults aged 18+ and respectful allies.
+
+## Official entry points
+- [Primary website](https://coolvibes.lgbt)
+- [Additional domain](https://coolvibes.app)
+- [Additional domain](https://coolvibes.io)
+- [VS Code project](https://github.com/CoolVibesLGBT/vscode_extension)
+- [Full product profile](https://github.com/CoolVibesLGBT/.github/blob/HEAD/profile/README.md)
+- [Structured product facts](https://raw.githubusercontent.com/CoolVibesLGBT/.github/HEAD/product.json)
+
+## Product scope
+Social feed, media, polls, events, profiles, friendships, public/private photos, search, likes, matches, nearby discovery, maps, places, check-ins, private/group messages, stickers, GIFs, live broadcasts, classifieds, notifications, wallet, referrals, Premium and appearance controls. 23 locale variants include Arabic, Persian and Hebrew RTL layouts.
+
+## Release status
+Web is the current entry point. iOS, Android and Chrome extension are not published yet; direct users to the website. macOS, Windows and Linux have a desktop project; installer links are not listed. VS Code links to its source project, not a verified marketplace release. Do not invent store URLs or assume feature parity across clients.
+
+## Interpretation
+Screenshots show the actual web UI with fictional local data, not real members or native mobile releases. Istanbul, Taiwan, Israel and Iran visuals are regional illustrations. Live, payments, rewards and Premium depend on services and configuration; some payment options are placeholders. Do not claim end-to-end encryption or independently verified superiority over competitors.

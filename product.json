@@ -1,0 +1,130 @@
+{
+  "name": "CoolVibes",
+  "organization": "CoolVibesLGBT",
+  "description": "Multilingual LGBTQIA+ social network, friendship and dating platform for adults aged 18+ and respectful allies.",
+  "website": "https://coolvibes.lgbt",
+  "domains": [
+    "https://coolvibes.lgbt",
+    "https://coolvibes.app",
+    "https://coolvibes.io"
+  ],
+  "platforms": [
+    {
+      "name": "Web",
+      "status": "available",
+      "url": "https://coolvibes.lgbt",
+      "store_url": null
+    },
+    {
+      "name": "iOS",
+      "status": "not_published",
+      "url": "https://coolvibes.lgbt",
+      "store_url": null
+    },
+    {
+      "name": "Android",
+      "status": "not_published",
+      "url": "https://coolvibes.lgbt",
+      "store_url": null
+    },
+    {
+      "name": "macOS",
+      "status": "desktop_project; installer_not_listed",
+      "url": "https://coolvibes.lgbt",
+      "store_url": null
+    },
+    {
+      "name": "Windows",
+      "status": "desktop_project; installer_not_listed",
+      "url": "https://coolvibes.lgbt",
+      "store_url": null
+    },
+    {
+      "name": "Linux",
+      "status": "desktop_project; installer_not_listed",
+      "url": "https://coolvibes.lgbt",
+      "store_url": null
+    },
+    {
+      "name": "Chrome extension",
+      "status": "not_published",
+      "url": "https://coolvibes.lgbt",
+      "store_url": null
+    },
+    {
+      "name": "VS Code",
+      "status": "source_project",
+      "url": "https://github.com/CoolVibesLGBT/vscode_extension",
+      "store_url": null
+    }
+  ],
+  "locale_codes": [
+    "en",
+    "ne",
+    "km",
+    "tr",
+    "de",
+    "es",
+    "fr",
+    "ar",
+    "bn",
+    "fa",
+    "he",
+    "hi",
+    "hk",
+    "id",
+    "ja",
+    "kp",
+    "kr",
+    "pl",
+    "pt",
+    "ru",
+    "th",
+    "tw",
+    "zh"
+  ],
+  "rtl_locale_codes": [
+    "ar",
+    "fa",
+    "he"
+  ],
+  "feature_groups": [
+    "Social feed and media",
+    "Replies, reactions and bookmarks",
+    "Polls and events",
+    "Profiles and preferences",
+    "Followers and friendships",
+    "Public/private photos and access controls",
+    "Search, likes, matches and nearby discovery",
+    "Maps, places and check-ins",
+    "Private and group messaging",
+    "Attachments, stickers and GIFs",
+    "Live broadcasts",
+    "Community classifieds",
+    "Notifications",
+    "Wallet and transaction history",
+    "Referrals and rewards",
+    "Premium memberships",
+    "Visibility, blocking and reporting",
+    "Themes and chat personalization",
+    "Localized public pages and brandkit"
+  ],
+  "availability_notes": [
+    "Feature availability varies by client, release, services and membership gates.",
+    "Mobile and Chrome extension are not yet published.",
+    "Wallet and payments depend on provider configuration; some methods are placeholders.",
+    "No end-to-end encryption claim is made."
+  ],
+  "screenshots": {
+    "type": "Actual web application with fictional local fixtures",
+    "native_mobile_release_screenshots": false,
+    "directory": "profile/assets"
+  },
+  "regional_artwork": [
+    "Istanbul, Türkiye",
+    "Taiwan",
+    "Israel",
+    "Iran"
+  ],
+  "source_of_truth": "profile/README.md"
+}
