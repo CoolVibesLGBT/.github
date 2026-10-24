@@ -1,11 +1,14 @@
 # Profile asset provenance
 
-All assets were copied from the existing CoolVibes web project without modification.
+Assets are sourced from the existing CoolVibes web project, except the repository-created SVG banner.
 
 - `wordmark.png`: `public/images/brand/dott-v3/wordmark.png`.
-- `istanbul.jpg`, `taiwan.jpg`, `israel.jpg`, `iran.jpg`: `docs/assets/heroes/tr.jpg`, `tw.jpg`, `he.jpg`, `fa.jpg` respectively. Regional illustrations, not photographs of members.
-- `feed-en.png`, `messages-en.png`, `appearance-en.png`, `profile-mobile-en.png`, `landing-tr.png`, `brandkit-en.png`: matching files under `docs/assets/screenshots/`.
+- `regions/*.jpg`: all 23 original regional illustrations from `docs/assets/heroes/`, preserving application locale codes.
+- `istanbul.jpg`, `taiwan.jpg`, `israel.jpg`, `iran.jpg`: original regional artwork retained for existing links.
+- All 16 application PNG captures: copied unchanged from `docs/assets/screenshots/`.
+- `capture-manifest.json`: original capture metadata from the same screenshot directory.
+- `community-banner.svg`: original vector typography and gradient composition created for this profile; not an application screenshot.
 
-The existing screenshot guide describes real browser captures using fictional profiles and intercepted local API responses. No new captures or real-account actions were performed for this profile update. The mobile-sized profile is responsive web, not a native app release capture. These images may precede later interface changes.
+The application screenshots use fictional profiles and intercepted local API fixtures. No new captures or real-account actions were performed. The mobile profile shows responsive web, not a native mobile release. Regional artwork is illustration, not member photography or evidence of country availability. Country/region labels are localization references, not exclusive language territories.
 
-Source documentation: CoolVibes web `README.md`, `docs/guide/product.md` and `docs/guide/screenshots.md`. Mobile and Chrome publication status follows the product owner's instruction for this update.
+Source documentation: CoolVibes web `docs/guide/product.md` and `docs/guide/screenshots.md`. Captures may precede later interface changes.

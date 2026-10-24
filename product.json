@@ -13,35 +13,38 @@
       "name": "Web",
       "status": "available",
       "url": "https://coolvibes.lgbt",
-      "store_url": null
+      "store_url": null,
+      "experience": "Responsive browser access and installable PWA on supported devices"
     },
     {
       "name": "iOS",
       "status": "not_published",
       "url": "https://coolvibes.lgbt",
-      "store_url": null
+      "store_url": null,
+      "experience": "Native mobile project not published; browser and supported home-screen web-app access available"
     },
     {
       "name": "Android",
       "status": "not_published",
       "url": "https://coolvibes.lgbt",
-      "store_url": null
+      "store_url": null,
+      "experience": "Native mobile project not published; browser and supported home-screen web-app access available"
     },
     {
       "name": "macOS",
-      "status": "desktop_project; installer_not_listed",
+      "status": "web_pwa_access; desktop_project; installer_not_listed",
       "url": "https://coolvibes.lgbt",
       "store_url": null
     },
     {
       "name": "Windows",
-      "status": "desktop_project; installer_not_listed",
+      "status": "web_pwa_access; desktop_project; installer_not_listed",
       "url": "https://coolvibes.lgbt",
       "store_url": null
     },
     {
       "name": "Linux",
-      "status": "desktop_project; installer_not_listed",
+      "status": "web_pwa_access; desktop_project; installer_not_listed",
       "url": "https://coolvibes.lgbt",
       "store_url": null
     },
@@ -118,13 +121,428 @@
   "screenshots": {
     "type": "Actual web application with fictional local fixtures",
     "native_mobile_release_screenshots": false,
-    "directory": "profile/assets"
+    "directory": "profile/assets",
+    "count": 16,
+    "manifest": "profile/assets/capture-manifest.json"
   },
   "regional_artwork": [
-    "Istanbul, Türkiye",
-    "Taiwan",
+    "International",
+    "Nepal",
+    "Cambodia",
+    "Türkiye",
+    "Germany",
+    "Spain",
+    "France",
+    "Arabic-speaking regions",
+    "Bangladesh",
+    "Iran",
     "Israel",
-    "Iran"
+    "India",
+    "Hong Kong",
+    "Indonesia",
+    "Japan",
+    "North Korea",
+    "South Korea",
+    "Poland",
+    "Portugal",
+    "Russia",
+    "Thailand",
+    "Taiwan",
+    "China"
   ],
-  "source_of_truth": "profile/README.md"
+  "source_of_truth": "llms-full.txt",
+  "locales": [
+    {
+      "code": "en",
+      "native_name": "English",
+      "language": "English",
+      "region_reference": "International",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/en.jpg"
+    },
+    {
+      "code": "ne",
+      "native_name": "नेपाली",
+      "language": "Nepali",
+      "region_reference": "Nepal",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/ne.jpg"
+    },
+    {
+      "code": "km",
+      "native_name": "ខ្មែរ",
+      "language": "Khmer",
+      "region_reference": "Cambodia",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/km.jpg"
+    },
+    {
+      "code": "tr",
+      "native_name": "Türkçe",
+      "language": "Turkish",
+      "region_reference": "Türkiye",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/tr.jpg"
+    },
+    {
+      "code": "de",
+      "native_name": "Deutsch",
+      "language": "German",
+      "region_reference": "Germany",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/de.jpg"
+    },
+    {
+      "code": "es",
+      "native_name": "Español",
+      "language": "Spanish",
+      "region_reference": "Spain",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/es.jpg"
+    },
+    {
+      "code": "fr",
+      "native_name": "Français",
+      "language": "French",
+      "region_reference": "France",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/fr.jpg"
+    },
+    {
+      "code": "ar",
+      "native_name": "العربية",
+      "language": "Arabic",
+      "region_reference": "Arabic-speaking regions",
+      "direction": "rtl",
+      "artwork": "profile/assets/regions/ar.jpg"
+    },
+    {
+      "code": "bn",
+      "native_name": "বাংলা",
+      "language": "Bengali",
+      "region_reference": "Bangladesh",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/bn.jpg"
+    },
+    {
+      "code": "fa",
+      "native_name": "فارسی",
+      "language": "Persian",
+      "region_reference": "Iran",
+      "direction": "rtl",
+      "artwork": "profile/assets/regions/fa.jpg"
+    },
+    {
+      "code": "he",
+      "native_name": "עברית",
+      "language": "Hebrew",
+      "region_reference": "Israel",
+      "direction": "rtl",
+      "artwork": "profile/assets/regions/he.jpg"
+    },
+    {
+      "code": "hi",
+      "native_name": "हिन्दी",
+      "language": "Hindi",
+      "region_reference": "India",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/hi.jpg"
+    },
+    {
+      "code": "hk",
+      "native_name": "繁體中文（香港）",
+      "language": "Traditional Chinese",
+      "region_reference": "Hong Kong",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/hk.jpg"
+    },
+    {
+      "code": "id",
+      "native_name": "Bahasa Indonesia",
+      "language": "Indonesian",
+      "region_reference": "Indonesia",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/id.jpg"
+    },
+    {
+      "code": "ja",
+      "native_name": "日本語",
+      "language": "Japanese",
+      "region_reference": "Japan",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/ja.jpg"
+    },
+    {
+      "code": "kp",
+      "native_name": "조선말",
+      "language": "Korean · DPRK variant",
+      "region_reference": "North Korea",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/kp.jpg"
+    },
+    {
+      "code": "kr",
+      "native_name": "한국어",
+      "language": "Korean · ROK variant",
+      "region_reference": "South Korea",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/kr.jpg"
+    },
+    {
+      "code": "pl",
+      "native_name": "Polski",
+      "language": "Polish",
+      "region_reference": "Poland",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/pl.jpg"
+    },
+    {
+      "code": "pt",
+      "native_name": "Português",
+      "language": "Portuguese",
+      "region_reference": "Portugal",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/pt.jpg"
+    },
+    {
+      "code": "ru",
+      "native_name": "Русский",
+      "language": "Russian",
+      "region_reference": "Russia",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/ru.jpg"
+    },
+    {
+      "code": "th",
+      "native_name": "ไทย",
+      "language": "Thai",
+      "region_reference": "Thailand",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/th.jpg"
+    },
+    {
+      "code": "tw",
+      "native_name": "繁體中文（台灣）",
+      "language": "Traditional Chinese",
+      "region_reference": "Taiwan",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/tw.jpg"
+    },
+    {
+      "code": "zh",
+      "native_name": "简体中文",
+      "language": "Simplified Chinese",
+      "region_reference": "China",
+      "direction": "ltr",
+      "artwork": "profile/assets/regions/zh.jpg"
+    }
+  ],
+  "documentation": {
+    "summary": "llms.txt",
+    "complete_product_guide": "llms-full.txt",
+    "profile_catalog": "docs/profile-catalog.md",
+    "profile_catalog_json": "docs/profile-catalog.json",
+    "visual_profile": "profile/README.md"
+  },
+  "profile_catalog_counts": {
+    "fantasies": {
+      "categories": 5,
+      "options": 66
+    },
+    "interests": {
+      "categories": 13,
+      "options": 274
+    },
+    "attributes": {
+      "categories": 32,
+      "options": 510
+    }
+  },
+  "pwa": {
+    "experience": "Installable web app with home-screen / launcher / desktop / Dock access in supported browsers",
+    "device_families": [
+      "Windows PCs",
+      "macOS computers",
+      "Linux computers",
+      "ChromeOS devices",
+      "Android phones and tablets",
+      "iPhone",
+      "iPad"
+    ],
+    "installation_requires_supported_browser": true,
+    "separate_from_native_store_release": true,
+    "offline_functionality": false,
+    "push_notifications": "Permission, browser and service dependent; Safari and Opera currently use fallback notifications",
+    "device_matrix_verified_in_this_update": false
+  },
+  "product_modules": [
+    {
+      "name": "Profiles",
+      "capabilities": [
+        "Avatar and cover",
+        "Rich biography and website",
+        "Languages",
+        "32 attribute categories",
+        "Interests",
+        "Adult preferences",
+        "Posts and activity",
+        "Profile audience controls"
+      ],
+      "availability": "Catalog and viewer permissions apply"
+    },
+    {
+      "name": "Photos",
+      "capabilities": [
+        "Public and private collections",
+        "Upload/delete/move",
+        "Access requests",
+        "Approve/decline",
+        "Owner grants",
+        "Revoke access"
+      ],
+      "availability": "Authenticated and permission controlled"
+    },
+    {
+      "name": "Social",
+      "capabilities": [
+        "Text and media posts",
+        "Replies",
+        "Reactions",
+        "Bookmarks",
+        "Polls",
+        "Events and RSVP",
+        "Stories",
+        "Search"
+      ],
+      "availability": "Client and service dependent"
+    },
+    {
+      "name": "Relationships",
+      "capabilities": [
+        "Follow/unfollow",
+        "Friend requests",
+        "Accept/decline/cancel",
+        "Remove friend",
+        "Likes and passes",
+        "Mutual matches"
+      ],
+      "availability": "Relationships and permissions are distinct"
+    },
+    {
+      "name": "Discovery",
+      "capabilities": [
+        "People search",
+        "Nearby and radar",
+        "Age/distance criteria",
+        "Interest/language/distance compatibility"
+      ],
+      "availability": "Location and membership settings apply"
+    },
+    {
+      "name": "Conversations",
+      "capabilities": [
+        "Private and group messages",
+        "Reply/edit/forward",
+        "Pin",
+        "Attachments",
+        "Emoji/stickers/GIFs",
+        "Mute",
+        "Authorized deletion/history controls",
+        "Temporary/view-once support"
+      ],
+      "availability": "Client/service dependent; no E2EE claim"
+    },
+    {
+      "name": "Groups",
+      "capabilities": [
+        "Public/private groups",
+        "Participant management",
+        "Public previews",
+        "Invitation links",
+        "Join flows"
+      ],
+      "availability": "Group permissions apply"
+    },
+    {
+      "name": "Local community",
+      "capabilities": [
+        "Places/maps",
+        "Place details",
+        "Check-ins",
+        "Classified offers/requests/details"
+      ],
+      "availability": "Local data and permissions apply"
+    },
+    {
+      "name": "Live",
+      "capabilities": [
+        "Broadcast discovery",
+        "Hosting/participation",
+        "Camera/microphone setup",
+        "Likes",
+        "Gifts"
+      ],
+      "availability": "Media services and membership configuration apply"
+    },
+    {
+      "name": "Account value",
+      "capabilities": [
+        "Wallet/history",
+        "Payment interfaces",
+        "Referrals/reward review",
+        "Gifts/tips",
+        "Premium"
+      ],
+      "availability": "Provider/account/feature gated; payment paths include incomplete integrations"
+    },
+    {
+      "name": "Personalization",
+      "capabilities": [
+        "Light/dark/system",
+        "Accents",
+        "Message sizing",
+        "Chat gradients/patterns",
+        "Wallpapers",
+        "23 locales",
+        "RTL"
+      ],
+      "availability": "Client coverage varies"
+    },
+    {
+      "name": "Personal controls",
+      "capabilities": [
+        "Audience visibility",
+        "Private photo permission",
+        "Block/unblock",
+        "Report",
+        "Notification settings",
+        "Account deletion",
+        "Privacy/help resources"
+      ],
+      "availability": "Do not infer verified safety, instant exports or E2EE"
+    }
+  ],
+  "positioning": {
+    "headline": "Your colors. Your people.",
+    "value_proposition": "A complete community experience for your colors, your people and your ways to connect.",
+    "strengths": [
+      "Integrated social, friendship and dating experiences",
+      "Rich self-expression and profile catalog",
+      "Distinct friendship, match and photo-permission controls",
+      "23 locale variants with regional artwork and RTL",
+      "Installable web access across supported phones, tablets and computers",
+      "Detailed appearance and conversation personalization"
+    ],
+    "independent_competitive_ranking_verified": false
+  },
+  "supporting_projects": [
+    {
+      "name": "Content/news portal",
+      "status": "Demonstration-data prototype; not established as a live editorial service"
+    },
+    {
+      "name": "Shared UI/design resources",
+      "status": "Supporting resources, not a separate consumer product"
+    }
+  ]
 }
