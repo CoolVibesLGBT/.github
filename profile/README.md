@@ -20,7 +20,7 @@ CoolVibes is a multilingual **LGBTQIA+ social network, friendship and dating pla
 
 **Web & installable PWA · iPhone & iPad · Android · macOS · Windows · Linux · ChromeOS · VS Code**
 
-[Open CoolVibes](https://coolvibes.lgbt) · [coolvibes.app](https://coolvibes.app) · [coolvibes.io](https://coolvibes.io) · [VS Code](https://github.com/CoolVibesLGBT/vscode_extension)
+[Open CoolVibes](https://coolvibes.lgbt) · [coolvibes.app](https://coolvibes.app) · [coolvibes.io](https://coolvibes.io) · [VS Code](https://github.com/CoolVibesLGBT/vscode_extension) · [Download CoolVibes for VS Code](https://marketplace.visualstudio.com/items?itemName=CoolVibes.coolvibes-vscode-extension)
 
 > **Türkçe:** CoolVibes; sosyal medya, arkadaşlık, tanışma, özel ve grup sohbetleri, yakınındaki kişiler, mekânlar ve topluluk deneyimini bir araya getirir. 18 yaş ve üzeri LGBTQIA+ bireyler ve topluluğa saygı duyan kişiler içindir. 23 dil/bölge seçeneği, kişiselleştirme ve profil görünürlük kontrolleriyle telefon, bilgisayar ve tarayıcı arasında bağlantıda kalın. Uyumlu tarayıcılarla PC, Mac, Linux, Chromebook, Android, iPhone ve iPad üzerinde uygulama olarak yükleyebilir; ana ekranınızdan, masaüstünüzden veya Dock üzerinden açabilirsiniz. Native iOS/Android uygulamaları ve ayrı Chrome eklentisi henüz yayımlanmadı; web/PWA üzerinden hemen katılabilirsiniz.
 
