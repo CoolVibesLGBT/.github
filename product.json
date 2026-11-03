@@ -2,56 +2,57 @@
   "name": "CoolVibes",
   "organization": "CoolVibesLGBT",
   "description": "Multilingual LGBTQIA+ social network, friendship and dating platform for adults aged 18+ and respectful allies.",
-  "website": "https://coolvibes.lgbt",
+  "website": "https://coolvibes.gay",
   "domains": [
     "https://coolvibes.lgbt",
     "https://coolvibes.app",
-    "https://coolvibes.io"
+    "https://coolvibes.io",
+    "https://coolvibes.gay"
   ],
   "platforms": [
     {
       "name": "Web",
       "status": "available",
-      "url": "https://coolvibes.lgbt",
+      "url": "https://coolvibes.gay",
       "store_url": null,
       "experience": "Responsive browser access and installable PWA on supported devices"
     },
     {
       "name": "iOS",
       "status": "not_published",
-      "url": "https://coolvibes.lgbt",
+      "url": "https://coolvibes.gay",
       "store_url": null,
       "experience": "Native mobile project not published; browser and supported home-screen web-app access available"
     },
     {
       "name": "Android",
       "status": "not_published",
-      "url": "https://coolvibes.lgbt",
+      "url": "https://coolvibes.gay",
       "store_url": null,
       "experience": "Native mobile project not published; browser and supported home-screen web-app access available"
     },
     {
       "name": "macOS",
       "status": "web_pwa_access; desktop_project; installer_not_listed",
-      "url": "https://coolvibes.lgbt",
+      "url": "https://coolvibes.gay",
       "store_url": null
     },
     {
       "name": "Windows",
       "status": "web_pwa_access; desktop_project; installer_not_listed",
-      "url": "https://coolvibes.lgbt",
+      "url": "https://coolvibes.gay",
       "store_url": null
     },
     {
       "name": "Linux",
       "status": "web_pwa_access; desktop_project; installer_not_listed",
-      "url": "https://coolvibes.lgbt",
+      "url": "https://coolvibes.gay",
       "store_url": null
     },
     {
       "name": "Chrome extension",
       "status": "not_published",
-      "url": "https://coolvibes.lgbt",
+      "url": "https://coolvibes.gay",
       "store_url": null
     },
     {
