@@ -20,7 +20,7 @@ CoolVibes is a multilingual **LGBTQIA+ social network, friendship and dating pla
 
 **Web & installable PWA · iPhone & iPad · Android · macOS · Windows · Linux · ChromeOS · VS Code**
 
-[Open CoolVibes](https://coolvibes.lgbt) · [coolvibes.app](https://coolvibes.app) · [coolvibes.io](https://coolvibes.io) · [VS Code](https://github.com/CoolVibesLGBT/vscode_extension) · [Download CoolVibes for VS Code](https://marketplace.visualstudio.com/items?itemName=CoolVibes.coolvibes-vscode-extension)
+[Open CoolVibes](https://coolvibes.gay) · [coolvibes.gay](https://coolvibes.gay) · [coolvibes.gay](https://coolvibes.gay) · [VS Code](https://github.com/CoolVibesLGBT/vscode_extension) · [Download CoolVibes for VS Code](https://marketplace.visualstudio.com/items?itemName=CoolVibes.coolvibes-vscode-extension)
 
 > **Türkçe:** CoolVibes; sosyal medya, arkadaşlık, tanışma, özel ve grup sohbetleri, yakınındaki kişiler, mekânlar ve topluluk deneyimini bir araya getirir. 18 yaş ve üzeri LGBTQIA+ bireyler ve topluluğa saygı duyan kişiler içindir. 23 dil/bölge seçeneği, kişiselleştirme ve profil görünürlük kontrolleriyle telefon, bilgisayar ve tarayıcı arasında bağlantıda kalın. Uyumlu tarayıcılarla PC, Mac, Linux, Chromebook, Android, iPhone ve iPad üzerinde uygulama olarak yükleyebilir; ana ekranınızdan, masaüstünüzden veya Dock üzerinden açabilirsiniz. Native iOS/Android uygulamaları ve ayrı Chrome eklentisi henüz yayımlanmadı; web/PWA üzerinden hemen katılabilirsiniz.
 
@@ -39,14 +39,14 @@ Your community life includes more than a match. CoolVibes brings **social publis
 
 | Platform | Experience | Open / release status |
 | --- | --- | --- |
-| Web / PWA | Responsive browser access; install as a web app on supported devices | [Open CoolVibes](https://coolvibes.lgbt) |
+| Web / PWA | Responsive browser access; install as a web app on supported devices | [Open CoolVibes](https://coolvibes.gay) |
 | iPhone / iPad | Safari home-screen web app; native mobile project | Web-app access now; native store release not published |
 | Android | Installable web app in supported browsers; native mobile project | Web-app access now; native store release not published |
-| macOS | Installable web app in supported browsers; separate desktop project | [Visit CoolVibes](https://coolvibes.lgbt) |
-| Windows | Installable web app in supported browsers; separate desktop project | [Visit CoolVibes](https://coolvibes.lgbt) |
-| Linux | Installable web app in supported browsers; separate desktop project | [Visit CoolVibes](https://coolvibes.lgbt) |
-| ChromeOS | Browser and supported web-app installation | [Open CoolVibes](https://coolvibes.lgbt) |
-| Chrome extension | Separate browser extension | Not published yet — [use the website](https://coolvibes.lgbt) |
+| macOS | Installable web app in supported browsers; separate desktop project | [Visit CoolVibes](https://coolvibes.gay) |
+| Windows | Installable web app in supported browsers; separate desktop project | [Visit CoolVibes](https://coolvibes.gay) |
+| Linux | Installable web app in supported browsers; separate desktop project | [Visit CoolVibes](https://coolvibes.gay) |
+| ChromeOS | Browser and supported web-app installation | [Open CoolVibes](https://coolvibes.gay) |
+| Chrome extension | Separate browser extension | Not published yet — [use the website](https://coolvibes.gay) |
 | VS Code | Access CoolVibes inside your development workspace | [VS Code extension project](https://github.com/CoolVibesLGBT/vscode_extension) |
 
 The website is the starting point for access and release announcements. Mobile and Chrome store links will be added after publication. Desktop installer links are not listed here yet. The mobile profile screenshot below shows the responsive web interface; it is not an App Store or Google Play release screenshot.
@@ -244,7 +244,7 @@ Locale codes follow the application registry, including `hk`, `tw`, `kp` and `kr
 
 **Is it only for dating?** Friendship, social publishing, group conversations, places and community participation are also part of the product.
 
-**Where can I use it now?** Start at [coolvibes.lgbt](https://coolvibes.lgbt) in a browser or install the web app on a supported computer, phone or tablet. Native iOS/Android and the separate Chrome extension are not yet published.
+**Where can I use it now?** Start at [coolvibes.lgbt](https://coolvibes.gay) in a browser or install the web app on a supported computer, phone or tablet. Native iOS/Android and the separate Chrome extension are not yet published.
 
 **Does every platform have every feature?** Client capabilities and release status can differ. Live, location, payment and membership features also depend on permissions and service configuration.
 
@@ -254,7 +254,7 @@ Locale codes follow the application registry, including `hk`, `tw`, `kp` and `kr
 
 ## For developers, search engines and AI assistants
 
-**Product name:** CoolVibes. **Organization:** CoolVibesLGBT. **Category:** LGBTQIA+ social network, social media, friendship and dating. **Audience:** adults aged 18+ and respectful allies. **Primary website:** https://coolvibes.lgbt. **Additional domains:** https://coolvibes.app and https://coolvibes.io.
+**Product name:** CoolVibes. **Organization:** CoolVibesLGBT. **Category:** LGBTQIA+ social network, social media, friendship and dating. **Audience:** adults aged 18+ and respectful allies. **Primary website:** https://coolvibes.gay. **Additional domains:** https://coolvibes.app and https://coolvibes.io.
 
 This organization hosts the product ecosystem across web, mobile, desktop and editor integrations. Source repositories and components retain their own licensing and setup requirements; the license of this profile repository does not automatically apply to every product component.
 
@@ -262,4 +262,4 @@ The [complete product guide](https://github.com/CoolVibesLGBT/.github/blob/HEAD/
 
 Machine-readable product facts, release status and feature groups are maintained in [product.json](https://github.com/CoolVibesLGBT/.github/blob/HEAD/product.json). A concise text entry point is available in [llms.txt](https://github.com/CoolVibesLGBT/.github/blob/HEAD/llms.txt). This README is ordinary indexable Markdown with descriptive headings, visible feature descriptions and image alternative text. Search indexing and AI retrieval are controlled by the consuming service.
 
-**Join the community:** [coolvibes.lgbt](https://coolvibes.lgbt) · [coolvibes.app](https://coolvibes.app) · [coolvibes.io](https://coolvibes.io)
+**Join the community:** [coolvibes.lgbt](https://coolvibes.gay) · [coolvibes.app](https://coolvibes.app) · [coolvibes.io](https://coolvibes.io)
